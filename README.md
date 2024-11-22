@@ -1,7 +1,31 @@
-<h1>About me👩‍💻</h1>
-<p> -I'm Giovanna de Moraes, born and raised in Rio de Janeiro, Brazil, back in 2007.
-I'm starting out in this area of ​​fullstack programming, still studying technical high school</p>
- 
+
+### Sobre Mim
+Olá! Sou **Giovanna**, estudante de informática e iniciante em desenvolvimento, com experiência em **html5, javascript, react, node.js e php**. Atualmente, estou focada em ** aprender novas linguagens e contribuir com projetos open-source **.
+
+📍 **Localização:** Rio de janeiro
+
+---
+
+### ⚡ Tecnologias & Ferramentas
+- **Frontend:** HTML, CSS, JavaScript, React e Tailwind CSS  
+- **Backend:** Node.js e PHP.  
+- **Ferramentas:** Figma, VS Code. 
+- **Outros:** APIs,  Insomnia.
+
+---
+
+### 🌱 O que estou aprendendo?
+No momento, estou me aprofundando em **novas tecnologias e linguagens**, como **Typescript, Python**.
+
+---
+
+
+### 🌐 Contatos
+- 📫 **E-mail:** giovannamrs.dev@gmail.com  
+- 💼 **LinkedIn:** https://abrir.link/YIEjI  
+
+---
+
 
  
  
