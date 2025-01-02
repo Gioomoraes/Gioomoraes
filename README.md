@@ -1,6 +1,6 @@
 
 ### Sobre Mim
-Olá! Sou **Giovanna**, estudante de informática e iniciante em desenvolvimento, com experiência em **html5, javascript, react, node.js e php**. Atualmente, estou focada em  aprender novas linguagens e contribuir com projetos open-source .
+Olá! Sou **Giovanna**, Técnica em informática e iniciante em desenvolvimento, com experiência em **html5, javascript, react, node.js e php**. Atualmente, estou focada em  aprender novas linguagens e contribuir com projetos open-source .
 
 📍 **Localização:** Rio de janeiro
 
