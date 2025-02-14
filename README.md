@@ -1,6 +1,6 @@
 
 ### Sobre Mim
-Olá! Sou **Giovanna**, Técnica em informática e iniciante em desenvolvimento, com experiência em **html5, javascript, react, node.js e php**. Atualmente, estou focada em  aprender novas linguagens e contribuir com projetos open-source .
+Olá! Sou **Giovanna**, Técnica em informática e iniciante em desenvolvimento web, com experiência em **html5, javascript, react, node.js e php**. Atualmente, estou focada em  aprender novas linguagens e contribuir com projetos open-source .
 
 📍 **Localização:** Rio de janeiro
 
@@ -22,7 +22,7 @@ No momento, estou me aprofundando em **novas tecnologias e linguagens**, como **
 
 ### 🌐 Contatos
 - 📫 **E-mail:** giovannamrs.dev@gmail.com  
-- 💼 **LinkedIn:** https://abrir.link/YIEjI  
+- 💼 **LinkedIn:** www.linkedin.com/in/giovanna-mrs 
 
 ---
 
