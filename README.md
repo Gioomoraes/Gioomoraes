@@ -50,7 +50,7 @@ Estou sempre em busca de novos projetos e oportunidades para continuar crescendo
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  Minhas Estatísticas:</h3>
 
 ###
 
