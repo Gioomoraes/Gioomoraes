@@ -18,8 +18,8 @@
 
 ## 💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora em formação, focada principalmente em **desenvolvimento web e automação com Python**.  
-Gosto de criar projetos que resolvem problemas reais, estudar como as coisas funcionam por baixo dos panos (principalmente sistemas e infraestrutura), e estou sempre buscando evoluir tecnicamente e profissionalmente 🚀
+  Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora em formação, focada principalmente em **desenvolvimento web e automação com Python**.  
+Gosto de criar projetos que resolvem problemas reais, estudar como a tecnologia funciona em diferentes camadas (principalmente sistemas e infraestrutura), e estou sempre buscando evoluir tecnicamente e profissionalmente 🚀
 
 Atualmente estou aprofundando meus estudos em **React**, **Node.js** e **arquitetura de aplicações**.
 
