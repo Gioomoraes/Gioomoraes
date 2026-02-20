@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Giovanna 💜</h1>
 <p align="center">Desenvolvedora em formação • Apaixonada por tecnologia e aprendizado contínuo</p>
 
----
+
 
 ## ✨ Onde me encontrar
 
@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+
 
 ## 💻 Sobre mim
 
@@ -23,7 +23,7 @@ Gosto de criar projetos que resolvem problemas reais, estudar como a tecnologia 
 
 Atualmente estou aprofundando meus estudos em **React**, **Node.js** e **arquitetura de aplicações**.
 
----
+
 
 ## 🔧 Minhas skills
 
@@ -60,7 +60,7 @@ Atualmente estou aprofundando meus estudos em **React**, **Node.js** e **arquite
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 </p>
 
----
+
 
 ## 🔥 Minha atividade no GitHub
 
