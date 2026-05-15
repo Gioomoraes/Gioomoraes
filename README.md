@@ -1,5 +1,6 @@
 <h1 align="center">Olá, me chamo Giovanna 💜</h1>
-<p align="center">Desenvolvedora em formação • Apaixonada por tecnologia e aprendizado contínuo</p>
+<p align="center">Desenvolvedora Full Stack | TypeScript, Node.js, React  
+Em transição para Automação de Processos (RPA) e Inteligência Artificial</p>
 
 
 <p align="center">
@@ -18,7 +19,7 @@
   Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora em formação, focada principalmente em **desenvolvimento web e automação com Python**.  
 Gosto de criar projetos que resolvem problemas reais, estudar como a tecnologia funciona em diferentes camadas (principalmente sistemas e infraestrutura), e estou sempre buscando evoluir tecnicamente e profissionalmente 🚀
 
-Atualmente estou aprofundando meus estudos em **React**, **Node.js** e **arquitetura de aplicações**.
+Atualmente estou aprofundando meus estudos em **React**, **Node.js** e em automação de processos (RPA) e soluções inteligentes com integração de sistemas e IA.
 
 
 
