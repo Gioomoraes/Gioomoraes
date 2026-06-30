@@ -38,7 +38,7 @@ Atualmente concentro meus estudos em Inteligência Artificial, Automação de Pr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
----
+
 
 ## ⚙️ Frameworks
 
@@ -49,7 +49,7 @@ Atualmente concentro meus estudos em Inteligência Artificial, Automação de Pr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
 </p>
 
----
+
 
 ## 💾 Banco de Dados
 
@@ -58,7 +58,7 @@ Atualmente concentro meus estudos em Inteligência Artificial, Automação de Pr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 </p>
 
----
+
 
 ## ☁️ Cloud & DevOps
 
@@ -70,7 +70,7 @@ Atualmente concentro meus estudos em Inteligência Artificial, Automação de Pr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
 </p>
 
----
+
 
 ## 🎨 Design
 
@@ -78,7 +78,7 @@ Atualmente concentro meus estudos em Inteligência Artificial, Automação de Pr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 </p>
 
----
+
 
 # 📚 Atualmente estudando
 
