@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo Giovanna 💜</h1>
 <p align="center">
-  <strong>Software Developer</strong><br>
+  <strong>Full Stack Developer</strong><br>
   React • Node.js • TypeScript • Python • AI • Automation • Cloud
 </p>
 
@@ -17,79 +17,23 @@
 
 
 
-## 💻 Sobre mim
+Construo aplicações web completas e experimento com IA para automatizar
+tarefas do dia a dia. Busco estágio em desenvolvimento full stack com IA,
+onde eu possa aprender em projetos reais.
 
-  Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora de software em formação.
+## 🚀 Projetos em destaque
+- **[task-manager]([link](https://github.com/Gioomoraes/task-manager))** — Kanban full stack (React 19, TypeScript, Bun, SQLite) com testes automatizados. [Demo](link)
+- **[cicd-pipeline-python]([link](https://github.com/Gioomoraes/cicd-pipeline-python))** — CI/CD com GitHub Actions, Docker e scan de segurança.
 
-Minha principal motivação é transformar ideias em soluções que realmente resolvam problemas. Gosto de desenvolver aplicações web completas, criar automações para otimizar processos e explorar como a Inteligência Artificial pode gerar valor para pessoas e empresas.
+## 🛠️ Stack
+- **Front:** React, TypeScript, Tailwind, Vite
+- **Back:** Node.js, Python, APIs REST
+- **Dados:** MySQL, MongoDB
+- **DevOps:** Docker, GitHub Actions, Linux, Git, Azure
+- **IA:** LLM, RAG, Fine-Tuning 
 
-Atualmente concentro meus estudos em Inteligência Artificial, Automação de Processos (RPA), Desenvolvimento Full Stack, Computação em Nuvem e Integração entre sistemas.
-
-
-
-
-# 🛠️ Tecnologias
-
-## 💻 Linguagens
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-</p>
-
-
-
-## ⚙️ Frameworks
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-</p>
-
-
-
-## 💾 Banco de Dados
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-</p>
-
-
-
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-</p>
-
-
-
-## 🎨 Design
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</p>
-
-
-
-# 📚 Atualmente estudando
-
-- Azure AI
-- Microsoft Fabric
-- Azure Stream Analytics
-- Inteligência Artificial
-- Agentes de IA
-- Automação com Python
-- Arquitetura de Software
-
+## 📚 Estudando agora
+Azure AI · Agentes de IA · Arquitetura de software
 
 
 ## 🔥 Minha atividade no GitHub
