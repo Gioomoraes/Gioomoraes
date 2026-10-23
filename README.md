@@ -22,7 +22,7 @@ tarefas do dia a dia. Busco estágio em desenvolvimento full stack com IA,
 onde eu possa aprender em projetos reais.
 
 ## 🚀 Projetos em destaque
-- **[task-manager]([link](https://github.com/Gioomoraes/task-manager))** — Kanban full stack (React 19, TypeScript, Bun, SQLite) com testes automatizados. [Demo](link)
+- **[task-manager]([link](https://github.com/Gioomoraes/task-manager))** — Kanban full stack (React 19, TypeScript, Bun, SQLite) com testes automatizados.
 - **[cicd-pipeline-python]([link](https://github.com/Gioomoraes/cicd-pipeline-python))** — CI/CD com GitHub Actions, Docker e scan de segurança.
 
 ## 🛠️ Stack
