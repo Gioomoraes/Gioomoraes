@@ -56,7 +56,7 @@ A hands-on project focused on learning automated software delivery with Python a
 - Kubernetes deployment and smoke testing in a local environment.
 - Workflow troubleshooting and release validation.
 
-**Technologies:** Python · GitHub Actions · Docker · GHCR · Trivy · Kubernetes · kind
+**Technologies:** Python · Angular · GitHub Actions · Docker · Trivy · Kubernetes · kind 
 
 ---
 
@@ -69,7 +69,6 @@ A hands-on project focused on learning automated software delivery with Python a
   <img src="https://img.shields.io/badge/GitHub_Actions-302747?style=flat-square&logo=githubactions&logoColor=C8B6FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-302747?style=flat-square&logo=docker&logoColor=C8B6FF" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-302747?style=flat-square&logo=linux&logoColor=C8B6FF" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kubernetes-302747?style=flat-square&logo=kubernetes&logoColor=C8B6FF" alt="Kubernetes" />
 </p>
 
 ### Programming & Development
@@ -80,7 +79,6 @@ A hands-on project focused on learning automated software delivery with Python a
   <img src="https://img.shields.io/badge/TypeScript-302747?style=flat-square&logo=typescript&logoColor=C8B6FF" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-302747?style=flat-square&logo=react&logoColor=C8B6FF" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-302747?style=flat-square&logo=nodedotjs&logoColor=C8B6FF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Django-302747?style=flat-square&logo=django&logoColor=C8B6FF" alt="Django" />
 </p>
 
 Databases, Data & Automation
@@ -97,7 +95,6 @@ Cloud & Security
 <p>
   <img src="https://img.shields.io/badge/AWS-302747?style=flat-square&logo=amazonwebservices&logoColor=C8B6FF" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-302747?style=flat-square&logo=microsoftazure&logoColor=C8B6FF" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Trivy-302747?style=flat-square&logo=aquasecurity&logoColor=C8B6FF" alt="Trivy" />
 </p>
 
 
